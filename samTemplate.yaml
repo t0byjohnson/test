@@ -7,7 +7,7 @@ Resources:
     Properties:
       Handler: index.handler
       Runtime: nodejs8.10
-      CodeUri: ./
+      CodeUri: .
       Description: POC function used to test automated deployments of lambda functions
       MemorySize: 128
       Timeout: 60
